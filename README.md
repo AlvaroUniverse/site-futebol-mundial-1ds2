@@ -9,3 +9,5 @@ Integrantes:
 - Pablo
 - Luis sant'ana
 - João
+
+Uma coisa que tenho que freezar aqui, caso tenha bug em relação com o Git Github
