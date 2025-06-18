@@ -6,9 +6,9 @@ Olá, esse é da atividade interdiciplinar da ETEC 1DS2
 Integrantes:
 
 - Álvaro
-- Pablo
+- @sis8did
 - Luis sant'ana
-- João
+- @Jhonnyny0001
 
 Uma coisa que tenho que freezar aqui, caso tenha bug em relação com o Git Github, salve as versões em seus pendrives para melhor backup!
 
