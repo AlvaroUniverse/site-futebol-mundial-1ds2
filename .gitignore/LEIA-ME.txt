@@ -1,2 +1,0 @@
-Pelor amor, essa pasta são coisas que vão ser ignoradas na hora do commit, e no fim
-o push para o GitHub :|
